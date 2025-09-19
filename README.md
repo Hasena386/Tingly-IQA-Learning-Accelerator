@@ -2,7 +2,7 @@
 
 A structured, practical guide to navigating the complex landscape of Image Quality Assessment. This accelerator provides a taxonomy of knowledge, a proven learning process, and actionable projects to efficiently go from foundational concepts to cutting edge semantic evaluation.
 
-**➡️ Start your journey here:** **[IQA-Learning-Accelerator.md](link_to_your_file.md)**
+**➡️ Start your journey here:** **[IQA-Learning-Accelerator.md](IQA-Learning-Accelerator.md)**
 
 ---
 
