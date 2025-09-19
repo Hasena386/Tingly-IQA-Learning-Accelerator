@@ -30,7 +30,7 @@ The field of IQA evolves rapidly. This accelerator is **version-controlled** and
 
 ## **Getting Started**
 
-1.  **Read the Guide:** Begin with the main accelerator document: **[IQA-Learning-Accelerator.md](link_to_your_file.md)**.
+1.  **Read the Guide:** Begin with the main accelerator document: **[IQA-Learning-Accelerator.md](IQA-Learning-Accelerator.md)**
 2.  **Choose Your Path:** Identify your current project or learning goal and follow the recommended path in the guide.
 3.  **Build and Experiment:** Use the provided code examples and project ideas in the `\tools` directory to start building your own IQA toolkit.
 
@@ -38,5 +38,7 @@ The field of IQA evolves rapidly. This accelerator is **version-controlled** and
 Feedback, suggestions, and contributions are welcome! Please feel free to open an Issue or Pull Request.
 
 ## **Licensing**
-*   **Code:** Licensed under the **MIT License** - see the `LICENSE` file for details.
-*   **Documentation & Guide:** Licensed under a **Creative Commons Attribution 4.0 International License** (CC BY 4.0).
+*   **Code:** Licensed under the **MIT License** - see the **[LICENSE.md](LICENSE.md)**
+
+*   **Documentation & Guide:** Licensed under a **Creative Commons Attribution 4.0 International License** (CC BY 4.0) - see **[LICENSE-CC.md](LICENSE-CC.md)**
+.
