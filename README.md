@@ -39,6 +39,4 @@ Feedback, suggestions, and contributions are welcome! Please feel free to open a
 
 ## **Licensing**
 *   **Code:** Licensed under the **MIT License** - see the **[LICENSE.md](LICENSE.md)**
-
 *   **Documentation & Guide:** Licensed under a **Creative Commons Attribution 4.0 International License** (CC BY 4.0) - see **[LICENSE-CC.md](LICENSE-CC.md)**
-.
