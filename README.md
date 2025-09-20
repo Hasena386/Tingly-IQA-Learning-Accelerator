@@ -13,7 +13,7 @@ This is not just a list of topics. It's a **strategic framework** that guides yo
 *   **Pixel-based (PSNR)** → **Perception-based (SSIM)** → **Data-driven (BRISQUE/LPIPS)** → **Semantic (CLIP-IQA)**.
 
 ### 🗺️ **Choose-Your-Own-Adventure Map**
-Avoid disorientation. The accelerator is designed for contextual learning based on your goals:
+Avoid overwhelm. The accelerator is designed for contextual learning based on your goals:
 *   Working on **denoising**? Focus on **Noise Modeling, BRISQUE, and PSNR**.
 *   Evaluating **AI-generated content**? Dive into **FID, LPIPS, and CLIP-IQA**.
 *   This structure channels your effort directly into what matters for your project.
