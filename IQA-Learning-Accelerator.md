@@ -5,7 +5,7 @@ This Learning Accelerator for IQA is maintained by Tingly. Components include Kn
 | Tier | Category | Key Concepts & Technologies (From Our Chats) |
 |------|----------|---------------------------------------------|
 | **1. Foundation** | **Core Image Quality Concepts** | Pixels, color spaces (RGB, YCbCr), bit depth, contrast, noise, sharpness, compression artifacts. |
-| | **IQA Method Paradigms** | Full-Reference Image Quality Assessment (FR-IQA); No-Reference Image Quality Assessment (NR-IQA / BIQA) |
+| | **IQA Method Paradigms** | **[Full-Reference Image Quality Assessment (FR-IQA)](https://dataworlds.substack.com/p/the-no-reference-avenger-battling)**; **[No-Reference Image Quality Assessment (NR-IQA / BIQA)](https://dataworlds.substack.com/p/full-reference-image-quality-assessment)** |
 | | **Basic Metrics** | Use and limitation of IQA metrics: PSNR, Blur and Noise. |
 | **2. Advancement** | **Perceptual Metrics** | SSIM, MS-SSIM, FSIM - moving beyond pure math to model human perception of structure, luminance and contrast. |
 | | **Color Science** | Python Color Models(RGB, HSV, LAB, YCrCb), Libraries (OpenCV, PIL, Numpy, Matplotlib, Skimage); Applications (color space conversion, segmentation, enhancement, analysis and quantisation); Impact to IQA |
