@@ -6,7 +6,7 @@ This Learning Accelerator for IQA is maintained by Tingly. Components include Kn
 |------|----------|---------------------------------------------|
 | **1. Foundation** | **Core Image Quality Concepts** | Pixels, color spaces (RGB, YCbCr), bit depth, contrast, noise, sharpness, compression artifacts. |
 | | **IQA Method Paradigms** | **[Full-Reference Image Quality Assessment (FR-IQA)](https://dataworlds.substack.com/p/the-no-reference-avenger-battling)**; **[No-Reference Image Quality Assessment (NR-IQA / BIQA)](https://dataworlds.substack.com/p/full-reference-image-quality-assessment)** |
-| | **Basic Metrics** | Use and limitation of IQA metrics: **[PSNR](https://dataworlds.substack.com/i/172331946/five-metrics-you-should-know)**, Blur and Noise. |
+| | **Basic Metrics** | Use and limitation of IQA metrics: **[PSNR](https://dataworlds.substack.com/i/172331946/five-metrics-you-should-know)**, **[Blur](https://dataworlds.substack.com/i/173996218/blur-using-laplacian-variance)** and **[Noise](https://dataworlds.substack.com/i/173996218/noise-using-standard-deviation)**. |
 | **2. Advancement** | **Perceptual Metrics** | **[SSIM, MS-SSIM, FSIM](https://dataworlds.substack.com/i/172331946/five-metrics-you-should-know)** - moving beyond pure math to model human perception of structure, luminance and contrast. |
 | | **Color Science** | Python Color Models(RGB, HSV, LAB, YCrCb), Libraries (OpenCV, PIL, Numpy, Matplotlib, Skimage); Applications (color space conversion, segmentation, enhancement, analysis and quantisation); Impact to IQA |
 | **3. Specialization** | **Modern IQA Metrics** | BRISQUE, NIQE, (Blind/No-Reference IQA), LPIPS (Learned Perceptual Image Patch Similarity) - using deep learning to model human judgment. |
