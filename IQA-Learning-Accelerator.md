@@ -24,7 +24,7 @@ Inquisitive, application-oriented, and iterative - a highly effective model.
 |-------|------------------|----------|
 | **1. Conceptual Hook** | Start with a practical, real-world problem or your 'curiosity'. :) | "How do I **[objectively tell if this upscaled image is actually better?](https://dataworlds.substack.com/i/172331946/combining-metrics-for-diagnose)**" |
 | **2. Discovery & Consumption** | Explore a concept, often by asking for definitions, comparisons, and pros/cons. | "Explain SSIM like I'm 15," "What's the **[difference between PSNR and SSIM?"](https://dataworlds.substack.com/i/172331946/combining-metrics-for-diagnose)** |
-| **3. Application & Testing** | Immediately seek to apply the concept to specific use cases or data. | "How would I use BRISQUE to filter a dataset of low-quality images?" |
+| **3. Application & Testing** | Immediately seek to apply the concept to specific use cases or data. | "How would I use **[BRISQUE](https://dataworlds.substack.com/i/173996218/brisque-and-niqe-with-pyiqa)** to filter a dataset of low-quality images?" |
 | **4. Critical Evaluation** | Question the results and limitations, pushing beyond the textbook answer. | "Why does this metric fail here?" "What are the trade-offs of using ESRGAN?" |
 | **5. Synthesis** | Connect the new concept to the existing knowledge framework. | Connecting FID to your understanding of GANs and previous metrics like SSIM. |
 
