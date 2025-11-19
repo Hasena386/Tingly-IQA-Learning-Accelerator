@@ -1,5 +1,5 @@
 # Tingly Learning Accelerator: Image Quality Assessment (IQA)
-This Learning Accelerator for IQA is maintained by Tingly. Components include Knowledge Taxonomy; Process Taxonomy; Gap and Accelerator Analysis;  and links to previously published resources including articles, blogs and playground codes addressing a variety of IQA challenges.
+This Learning Accelerator for IQA is maintained by TinglyTech. Components include Knowledge Taxonomy; Process Taxonomy; Gap and Accelerator Analysis;  and links to previously published resources including articles, blogs and playground codes addressing a variety of IQA challenges.
 
 ## Knowledge Taxonomy: What to Learn 
 | Tier | Category | Key Concepts & Technologies (From Our Chats) |
@@ -18,7 +18,7 @@ This Learning Accelerator for IQA is maintained by Tingly. Components include Kn
 | | **Multi-Modal Evaluation** | The frontier of IQA: Leveraging traditional image quality assessment (IQA) libraries, **[Texture Descriptors](https://mindfulgeek.substack.com/i/178668972/the-texture-interpreter-and-profiler-your-automated-expert)** and **[natural language to define context based "quality"](https://dataworlds.substack.com/i/173996218/interpreting-nr-iqa-and-clip-iqa-metrics)** for projects. |
 
 ## Process Taxonomy: How to Learn
-Inquisitive, application-oriented, and iterative - a highly effective model.
+Inquisitive, Application-Oriented, and Iterative.
 
 | Phase | Learning Process | Examples |
 |-------|------------------|----------|
