@@ -53,7 +53,7 @@ Critical reflection on potential blind spots and how to address them for acceler
 - Try to find its official code repository on GitHub and run it.
 - Then, search for a blog post that explains it intuitively. This three-pronged attack covers theory, practice, and intuition.
 
-### Build a "Quality Assessment Toolkit for FR-IQA"
+### Build a **["Quality Assessment Toolkit for FR-IQA"](https://colab.research.google.com/drive/1gTnpmJtzTU-IicG0sQ2Qz9EFb2pbg-d-)**
 - Create a single Jupyter Notebook or Python script where you can input two images and it outputs a dashboard of metrics (PSNR, SSIM, MS-SSIM, FSIM, LPIPS, etc.) and a normalized FR-IQA.
 - This gives you immediate comparative power and reinforces the relative strengths of each metric and the overall FR-IQA.
 - Include visualizations (e.g., a difference map for SSIM, a heatmap for saliency) to make the metrics interpretable.
