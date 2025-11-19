@@ -58,7 +58,7 @@ Critical reflection on potential blind spots and how to address them for acceler
 - This gives you immediate comparative power and reinforces the relative strengths of each metric and the overall FR-IQA.
 - Include visualizations (e.g., a difference map for SSIM, a heatmap for saliency) to make the metrics interpretable.
 
-### Build a "Quality Assessment Toolkit for NR-IQA"
+### Build a **["Quality Assessment Toolkit for NR-IQA"](https://colab.research.google.com/drive/108hOL1IduMr1NORdhwdp12_hr1NeIbAc)**
 - Create a single Jupyter Notebook or Python script where you can input one image and it outputs a dashboard of metrics (Blur, Noise, BRISQUE, NIQE, CLIP-IQA, etc.) and a normalized NR-IQA.
 - This gives you immediate comparative power and reinforces the relative strengths of each metric and the overall NR-IQA.
 - Include visualizations (e.g., a difference map for SSIM, a heatmap for saliency) to make the metrics interpretable.
