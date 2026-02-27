@@ -32,7 +32,7 @@ The field of IQA evolves rapidly. This accelerator is **version-controlled** and
 
 1.  **Read the Guide:** Begin with the main accelerator document: **[IQA-Learning-Accelerator.md](IQA-Learning-Accelerator.md)**
 2.  **Choose Your Path:** Identify your current project or learning goal and follow the recommended path in the guide.
-3.  **Build and Experiment:** Use the provided code examples and project ideas in the `\tools` directory to start building your own IQA toolkit.
+3.  **Build and Experiment:** Use the provided code examples and project ideas in the `\tools` directory or articles (linked colab notebooks) to start building your own IQA toolkit.
 
 ## **Contributing**
 Feedback, suggestions, and contributions are welcome! Please feel free to open an Issue or Pull Request.
