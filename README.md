@@ -38,5 +38,5 @@ The field of IQA evolves rapidly. This accelerator is **version-controlled** and
 Feedback, suggestions, and contributions are welcome! Please feel free to open an Issue or Pull Request.
 
 ## **Licensing**
-*   **Code:** Licensed under the **MIT License** - see the **[LICENSE.md](LICENSE.md)**
-*   **Documentation & Guide:** Licensed under a **Creative Commons Attribution 4.0 International License** (CC BY 4.0) - see **[LICENSE-CC.md](LICENSE-CC.md)**
+*   **Code:** Licensed under the **MIT License** - see the **[LICENSE-MIT.md](LICENSE-MIT.md)**
+*   **Documentation & Guide:** Licensed under a **Creative Commons Attribution 4.0 International License** (CC BY 4.0) - see **[LICENSE-CCBY.md](LICENSE-CCBY.md)**
