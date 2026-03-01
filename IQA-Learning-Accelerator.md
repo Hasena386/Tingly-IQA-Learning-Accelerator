@@ -26,7 +26,7 @@ Inquisitive, Application-Oriented, and Iterative.
 | **2. Discovery & Consumption** | Explore a concept, often by asking for definitions, comparisons, and pros/cons. | "Explain SSIM like I'm 15," "What's the **[difference between PSNR and SSIM?"](https://dataworlds.substack.com/i/172331946/five-metrics-you-should-know)** |
 | **3. Application & Testing** | Immediately seek to apply the concept to specific use cases or data. | "How would I use **[BRISQUE](https://dataworlds.substack.com/i/173996218/brisque-and-niqe-with-pyiqa)** to filter a dataset of low-quality images?" |
 | **4. Critical Evaluation** | Question the results and limitations, pushing beyond the textbook answer. | **["Why does this metric fail here?"](https://dataworlds.substack.com/p/advanced-color-science-topics-and)** "What are the trade-offs of using ESRGAN?" |
-| **5. Synthesis** | Connect the new concept to the existing knowledge framework. | Connecting FID to your understanding of GANs and previous metrics like SSIM. |
+| **5. Synthesis** | Connect the new concept to the existing knowledge framework. | Connecting FID to your understanding of GANs and previous metrics like SSIM. **_COMING SOON_** |
 
 ## Gap & Accelerator Analysis
 Critical reflection on potential blind spots and how to address them for accelerated growth.
